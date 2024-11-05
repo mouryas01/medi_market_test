@@ -7,5 +7,5 @@ use Illuminate\Database\Eloquent\Model;
 class Blog extends Model
 {
     //
-    #Just Test to git functionality
+    #Just testing purpose has been solved.
 }
